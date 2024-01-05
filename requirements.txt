@@ -1,9 +1,6 @@
-langchain
-streamlit
-openai
-tiktoken
-python-dotenv
-pinecone-client
-pypdf
-joblib
-pandas
+numpy==1.16.5
+matplotlib==3.2.1
+pandas==1.0.4
+streamlit==0.61.0
+Pillow==7.1.2
+scikit_learn==0.23.1
